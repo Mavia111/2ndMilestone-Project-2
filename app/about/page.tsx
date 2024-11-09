@@ -1,4 +1,4 @@
-import { Heading1, Heading2, Heading3 } from "../components/Headings";
+import { Heading2, Heading3 } from "../components/Headings";
 import { Para } from "../components/para";
 
 export default function About(){
