@@ -1,4 +1,4 @@
-import { Heading2, Heading3 } from "@/app/components/Headings";
+import {  Heading3 } from "@/app/components/Headings";
 
 export default function Contact(){
     return(
